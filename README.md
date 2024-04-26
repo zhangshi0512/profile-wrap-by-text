@@ -36,7 +36,7 @@
 
 - **Technologies:**
 
-  - **Processing API:** remove.bg API for background removal as per the provided PDF.
+  - **Processing API:** remove.bg API for background removal based on bg API documentation.
   - **Framework:** Next.js serverless functions for API interaction.
 
 - **Implementation Plan:**
